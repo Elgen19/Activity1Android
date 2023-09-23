@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity1</string>
+    <string name="textEmailAddress">Email Address</string>
+    <string name="textPassword">Password</string>
+    <string name="textConfirmPassword">Confirm Password</string>
+    <string name="textSubmit">Register</string>
+</resources>
